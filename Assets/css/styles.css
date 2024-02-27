@@ -1,0 +1,141 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar{
+    background-color: #28A745;
+}
+
+.logo-navbar{
+    width: 86px;
+    height: 25px;
+}
+
+.collapse{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.nav-item .nav-link{
+    color: #FFFFFF;
+}
+
+.navbar .container{
+    padding: 0 20px;
+}
+
+.card{
+    border-color: #DDDDDD;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.prices{
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.card-text{
+    color: #212529;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.company-text{
+    color: #707070;
+    font-weight: 300;
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+.location-text{
+    color: #707070;
+    font-weight: 300;
+    font-size: 13px;
+}
+
+hr{
+    color: #707070;
+}
+
+.prices span{
+    font-size: 20px;
+    color: #28A745;
+    font-weight: 500;
+}
+
+.prices p{
+    margin-bottom: 0;
+    margin-right: 10px;
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
+
+.form-section{
+    background-color: #28A745;
+}
+
+form{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+form div{
+    padding-top: 25px;
+}
+
+form div h2{
+    color: #FFFFFF;
+    font-size: 21px;
+    font-weight: 500;
+    text-align: center;
+}
+
+form .input-text input{
+    color: #707070;
+    font-size: 16px;
+    height: 40px;
+    margin-bottom: 14px;
+    border-color: #DDDDDD;
+}
+
+.input-btn{
+    padding-top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form .input-btn input{
+    width: 120px;
+    height: 40px;
+    border-color: #DDDDDD;
+    background-color: #F8F9FA;
+    color: #212529;
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+
+footer{
+    text-align: center;
+}
+
+.logo-footer{
+    width: 82px;
+    height: 24px;
+    margin-top: 24px;
+    margin-bottom: 10px;
+}
+
+footer p{
+    color: #707070;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.2em;
+    margin-bottom: 22px;
+}
